@@ -311,11 +311,11 @@ See the `examples/` directory for complete working examples:
 
 ## License
 
-GPL v2 License - see [LICENSE](LICENSE) file for details.
+GPL v2 License - see [COPYING](COPYING) file for details.
 
 ## Copyright
 
-Copyright (c) 2024 Keith Lawson
+Copyright (c) 2025 Keith Lawson
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
